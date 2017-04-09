@@ -1,7 +1,7 @@
 
 var PlayInterval;
 var PlayCount;
-var WaitResLoadedTime = 500;
+var WaitResLoadedTime = 100;
 
 //console.log("content inited");
 
